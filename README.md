@@ -1,2 +1,2 @@
-# machine-learning
-machine learning projects
+"GREEN PLANET" is a mobile application for creating a more sustainable world.it aims to raise awarness about the critical situation the environment is currently facing, and human actions that adversely influence climate change.
+Waste amnagement is the collection, recycling or disposal and monitoring of waste materials.it introduces the concept of Android based waste dumping in which that enhances the doorstep collection of waste
